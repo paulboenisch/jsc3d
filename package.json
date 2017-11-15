@@ -6,9 +6,6 @@
     "url": "git@github.com:paulboenisch/jsc3d.git"
   },
   "version": "1.0.0",
-  "peerDependencies": {
-    "npm-assets": "0.1.2"
-  },
   "assets": [
     "jsc3d/jsc3d.js",
     "jsc3d/jsc3d.webgl.js",
